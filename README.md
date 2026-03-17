@@ -114,8 +114,8 @@ while maintaining a distinct identity.
 ### ✧ Gesture Observatory
 ![Gesture Observatory](assets/screenshots/gesture-observatory-closeup.png)
 
-### ✧ Tonal Orbit
-![Tonal Orbit](assets/screenshots/tonal-orbit-closeup.png)
+### ✧ Dream Cadence
+![Tonal Orbit](assets/screenshots/dream-cadence.png)
 
 ---
 
