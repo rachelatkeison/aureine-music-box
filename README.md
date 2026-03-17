@@ -1,97 +1,118 @@
-# Aureine Music Box
+# ✧ Aureine Music Box
 
-A real-time MIDI intelligence system for harmonic analysis, tonal mapping, and generative musical response.
-
-## Overview
-
-Aureine Music Box is an interactive music technology tool that analyzes MIDI input in real time and generates musical insight including:
-
-- chord detection
-- key estimation
-- scale recognition
-- interval analysis
-- harmonic suggestions
-- chord progression generation
-- arpeggiator previews
-- rhythm and tempo inference
-
-The system visualizes musical structure through:
-
-- chord bloom visualization
-- tonal orbit mapping
-- gesture observatory (piano roll)
-- real-time activity monitoring
-
-## Features
-
-### MIDI Analysis
-- real-time note tracking
-- velocity + duration analysis
-- polyphonic input handling
-
-### Musical Intelligence
-- chord recognition engine
-- key detection
-- scale field inference
-- interval analysis
-
-### Generative System
-- harmony suggestions
-- chord progression ideas
-- arpeggiator preview
-- rhythm pattern hints
-
-### Transformations
-- open voicing spread
-- octave lift
-- transpose control
-- humanization preview
-- swing control
-
-### Visualization
-- chord bloom (harmonic center)
-- tonal orbit (pitch-class mapping)
-- gesture observatory (note activity)
-- activity monitor
-
-## Controls
-
-Keyboard input:
-
-A W S E D F T G Y H U J K → notes  
-Z / X → octave shift  
-Space → clear notes  
-
-## Demo Scenes
-
-- Bloom Chord
-- Dream Cadence
-- Starlit Suspense
-- Glass Dominant
-- Iridescent Spread
-- Luminous Lift
-
-## Tech Stack
-
-- Python
-- PySide6 (UI)
-- PyQtGraph (visualization)
-- MIDI (optional input/output)
-
-## Inspiration
-
-Inspired by modern music technology tools used in professional environments such as Yamaha, Ableton, and Native Instruments.
-
-## Demo
-
-[Insert demo video link here]
-
-## Screenshots
-
-![Hero](assets/screenshots/hero-ui.png)
-![Chord Bloom](assets/screenshots/bloom-chord.png)
-![Gesture Observatory](assets/screenshots/gesture-observatory-closeup.png)
+> *a real-time harmonic intelligence system for expressive MIDI performance*
 
 ---
 
-Created by Aureine Audio Systems# aureine-music-box
+## ♡ Overview
+
+**Aureine Music Box** is a real-time MIDI intelligence engine that listens, understands, and responds to musical input.
+
+It transforms live performance into structured musical insight revealing harmony, tonal direction, and expressive possibilities as you play.
+
+Designed as part of **Aureine Audio Systems**, this project blends:
+
+- ✦ technical precision  
+- ✦ musical intuition  
+- ✦ soft, expressive visual design  
+
+---
+
+## ✧ Core Capabilities
+
+### ♫ MIDI Awareness
+- real-time note tracking  
+- velocity + duration sensing  
+- polyphonic input handling  
+
+### ✧ Musical Intelligence
+- chord detection  
+- key estimation  
+- scale recognition  
+- interval analysis  
+
+### ♡ Generative Response
+- harmony suggestions  
+- chord progression ideas  
+- arpeggiator previews  
+- rhythm + tempo inference  
+
+### ✧ Transformations
+- open voicing bloom  
+- octave lift  
+- transpose control  
+- humanization preview  
+- swing shaping  
+
+---
+
+## ✧ Visual System
+
+The interface is designed as a **musical observatory**, where sound becomes visible:
+
+- ✦ **Chord Bloom** — harmonic center visualization  
+- ✦ **Tonal Orbit** — pitch-class mapping  
+- ✦ **Gesture Observatory** — real-time note activity  
+- ✦ **Activity Monitor** — expressive performance feedback  
+
+---
+
+## ♫ Controls
+
+**Keyboard Input**
+
+A W S E D F T G Y H U J K → notes
+Z / X → octave shift
+Space → clear notes
+
+
+---
+
+## ✧ Demo Constellations
+
+- Bloom Chord  
+- Dream Cadence  
+- Starlit Suspense  
+- Glass Dominant  
+- Iridescent Spread  
+- Luminous Lift  
+
+---
+
+## ✧ Tech Stack
+
+- Python  
+- PySide6 (UI)  
+- PyQtGraph (visualization)  
+- MIDI (optional input/output)  
+
+---
+
+## ♡ Inspiration
+
+Inspired by modern music technology tools used in professional environments  
+such as **Yamaha, Ableton, and Native Instruments**  
+while maintaining a distinct **Aureine aesthetic identity**.
+
+---
+
+## ✧ Demo
+
+🎥 *[Add your demo video here]*
+
+---
+
+## ✧ Screenshots
+
+![Interface](assets/screenshots/hero-ui.png)  
+![Chord Bloom](assets/screenshots/bloom-chord.png)  
+![Gesture Observatory](assets/screenshots/gesture-observatory-closeup.png)  
+
+---
+
+## ♡ About
+
+Created as part of **Aureine Audio Systems**  
+where music, code, and emotion are designed together.
+
+✧
