@@ -89,9 +89,7 @@ Space → clear notes
 
 ## ♡ Inspiration
 
-Inspired by modern music technology tools used in professional environments  
-such as *Yamaha, Ableton, and Native Instruments*  
-while maintaining a distinct identity.
+Inspired by modern music technology tools used in professional environments such as *Yamaha, Ableton, and Native Instruments* while maintaining a distinct identity.
 
 ---
 
@@ -121,7 +119,6 @@ while maintaining a distinct identity.
 
 ## ♡ About
 
-Created as part of my *Aureine Audio Systems*  
-where music, code, and emotion are designed together.
+Created as part of my *Aureine Audio Systems* where music, code, and emotion are designed together.
 
 ✧
